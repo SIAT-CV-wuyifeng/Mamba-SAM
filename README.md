@@ -17,3 +17,16 @@ Author(s): Yifeng Wu, Xiaodong Zhang, Haoran Zhang, Yang Sun, Lin Li, Fengjun Zh
 
 Author E-mail: jp.xu@siat.ac.cn, yf.wu1@siat.ac.cn, zhangxd@siat.ac.cn, suny218@163.com, ls19821109@163.com, Zhufengjun128@126.com, Caodezhi888@aliyun.com 
 
+# Dataset acquisition
+ISIC2017：https://challenge.isic-archive.com/landing/2017/
+
+ISIC2018：https://challenge.isic-archive.com/landing/2018/
+
+Focal cortical dysplasia (FCD) lesion dataset：
+
+## Model performance demonstration and weight release
+
+## Future planning
+
+The next step is to open source the code related to train, test, and dataloader. We are currently in the submission stage, and once the submission process is complete, we will release everything publicly.
+
