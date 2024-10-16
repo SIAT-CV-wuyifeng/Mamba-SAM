@@ -7,3 +7,13 @@ you can add yf.wu1@siat.ac.cn to get new updatas
 1. Create a virtual environment `conda create -n Mamba-SAM python=3.10 -y` and activate it `conda activate Mamba-SAM`
 2. Install [Pytorch 2.1.0](https://pytorch.org/get-started/locally/)
 3. GPU choose A800 80G
+
+## Reference
+Publication Title: 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 
+
+Article Title: Mamba-SAM: An Adaption Framework for Accurate Medical Image Segmentation
+
+Author(s): Yifeng Wu, Xiaodong Zhang, Haoran Zhang, Yang Sun, Lin Li, Fengjun Zhu, Dezhi Cao, and Jinping Xu 
+
+Author E-mail: jp.xu@siat.ac.cn, yf.wu1@siat.ac.cn, zhangxd@siat.ac.cn, suny218@163.com, ls19821109@163.com, Zhufengjun128@126.com, Caodezhi888@aliyun.com 
+
