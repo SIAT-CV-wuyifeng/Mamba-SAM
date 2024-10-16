@@ -15,7 +15,7 @@ Article Title: Mamba-SAM: An Adaption Framework for Accurate Medical Image Segme
 
 Author(s): Yifeng Wu, Xiaodong Zhang, Haoran Zhang, Yang Sun, Lin Li, Fengjun Zhu, Dezhi Cao, and Jinping Xu 
 
-# Dataset acquisition
+## Dataset acquisition
 ISIC2017：https://challenge.isic-archive.com/landing/2017/
 
 ISIC2018：https://challenge.isic-archive.com/landing/2018/
